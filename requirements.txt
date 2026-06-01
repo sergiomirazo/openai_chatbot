@@ -1,0 +1,5 @@
+kivy>=2.3.0
+openai>=1.55.0
+keyring>=25.0.0
+platformdirs>=4.0.0
+pyinstaller>=6.0.0
